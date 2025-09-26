@@ -1,2 +1,6 @@
-alu-web-development
-This is for ALU frontend web development. I will mostly include html and css as well as Javascript in this project.
+User authentication service
+Learning objectives
+How to declare API routes in a Flask app
+How to get and set cookies
+How to retrieve request form data
+How to return various HTTP status codes
